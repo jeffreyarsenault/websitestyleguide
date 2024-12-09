@@ -1,0 +1,160 @@
+/* style.css */
+
+h1 {
+    text-align: center;
+    font-weight: 700 bold;
+    font-size: 40px;
+    font-family: "Open Sans";
+}
+h2 {
+    font-weight: 500 bold;
+    font-size: 25px;
+    font-family: "noto-sans";
+}
+p {
+    font-weight: 400;
+    font-size: 16px;
+    font-family: "lato";
+}
+.container {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+}
+.soft-silver {
+    text-align: center;
+    background-color: #dbdbdb;
+    display: inline-block;
+    border: 1px solid black;
+    width: 32%;
+    margin: 15px auto;
+    padding: 10px 15px;
+}
+.raging-red {
+    background-color: #e31616;
+    color: white;
+    display: inline-block;
+    border: 1px solid black;
+    width: 32%;
+    margin: 15px auto;
+    padding: 10px 15px;
+}
+.blue-glaze {
+    background-color: #5d23ff;
+    color: white;
+    display: inline-block;
+    border: 1px solid black;
+    width: 32%;
+    margin: 15px auto;
+    padding: 10px 15px;
+}
+.soft-light-green {
+    background-color: #33f0b1;
+    display: inline-block;
+    border: 1px solid black;
+    width: 32%;
+    margin: 15px auto;
+    padding: 10px 15px;
+}
+.font-container {
+    vertical-align: middle;
+}
+.font-panel.open-sans {
+    display: inline-block;
+    margin: auto 15px;
+    vertical-align: middle;
+    font-family: "Open Sans";
+}
+.font-label.open-sans {
+    font-size: x-large;
+    text-decoration: underline;
+}
+.open-sans {
+    font-family: "Open Sans";
+}
+.normal-open-sans {
+    font-family: "Open Sans";
+}
+.bold-open-sans {
+    font-weight: bold;
+    font-family: "Open Sans";
+}
+.italic-open-sans {
+    font-style: italic;
+    font-family: "Open Sans";
+}
+.font-panel.noto-sans {
+    display: inline-block;
+    margin: auto 15px;
+    vertical-align: middle;
+}
+.font-label.noto-sans {
+    font-size: x-large;
+    text-decoration: underline;
+}
+.noto-sans {
+    font-family: "Noto Sans";
+}
+.normal-noto-sans {
+    font-family: "Noto Sans";
+}
+.bold-noto-sans {
+    font-weight: bold;
+    font-family: "Noto-Sans";
+}
+.italic-noto-sans {
+    font-style: italic;
+    font-family: "Noto-Sans";
+}
+.font-panel.lato {
+    display: inline-block;
+    margin: auto 15px;
+    vertical-align: middle;
+}
+.font-label.lato {
+    font-size: x-large;
+    text-decoration: underline;
+}
+.lato {
+    font-family: "Lato";
+}
+.normal-lato {
+    font-family: "Lato";
+}
+.bold-lato {
+    font-weight: bold;
+    font-family: "Lato";
+}
+.italic-lato {
+    font-style: italic;
+    font-family: "Lato";
+}
+.font-panel.montserrat {
+    display: inline-block;
+    margin: auto 15px;
+    vertical-align: middle;
+}
+.font-label.montserrat {
+    font-size: x-large;
+    text-decoration: underline;
+}
+.montserrat {
+    font-family: "Montserrat";
+}
+.normal-montserrat {
+    font-family: "Monserrat";
+}
+.bold-montserrat {
+    font-weight: bold;
+    font-family: "Montserrat";
+}
+.italic-montserrat {
+    font-style: italic;
+    font-family: "Montserrat";
+}
+ul {
+    width: auto;
+    text-align: center;
+    list-style-position: inside;
+}
